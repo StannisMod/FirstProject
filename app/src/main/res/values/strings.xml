@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ManufactureSim</string>
+    <string name="yourPercent">Ваш процент:</string>
+    <string name="inputCredit_Deposit">Введите сумму кредита:</string>
+</resources>
